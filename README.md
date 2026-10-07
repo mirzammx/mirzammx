@@ -1,14 +1,19 @@
 👋 Hello! I'm Mohammed Mirza
 
-Computer Science student focused on AI/ML, full-stack development, and scalable systems.
-Currently working on real-world AI applications and exploring LLMs, automation, and cloud deployments.
+AI Engineer focused on **AI/ML, LLMs, automation, and scalable systems**.
 
-🚀 Experience
+Currently a **Full-Time AI Engineer at Rug-Rel**, building and deploying production AI solutions using Python, TensorFlow, AWS, Docker, and CI/CD.
 
-AI/ML Intern — Rug-Rel (Aug 2025 – Present)
+I also work with businesses and development teams on **AI projects, automation, and subcontracted AI implementations**.
 
-Built medical imaging model (kidney stone detection)
-Deployed APIs using AWS + Docker + CI/CD
+🚀 **Interests**
+
+* AI/ML & LLMs
+* AI Agents & Automation
+* Full-Stack AI Applications
+* Cloud & MLOps
+* Production AI Systems
+
 
 🛠️ Tech Stack
 
